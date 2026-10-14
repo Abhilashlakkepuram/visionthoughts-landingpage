@@ -57,10 +57,10 @@ export default function Nav() {
           aria-label={`${site.name} — back to top`}
         >
           <Image
-            src="/logo-mark.png"
+            src="/vt_logo_transparent.png"
             alt=""
-            width={256}
-            height={178}
+            width={601}
+            height={381}
             priority
             className="h-6 w-auto shrink-0 transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover/brand:scale-110 sm:h-7"
           />
