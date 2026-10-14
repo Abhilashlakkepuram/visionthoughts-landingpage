@@ -65,7 +65,7 @@ export default function Nav() {
             className="h-6 w-auto shrink-0 transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover/brand:scale-110 sm:h-7"
           />
           <span className="font-mono text-[10px] font-medium uppercase tracking-[0.28em] text-bone sm:text-[11px] sm:tracking-[0.3em]">
-            Vision<span className="text-mute-dim">/</span>Thoughts
+            Vision Thoughts
           </span>
         </a>
 
